@@ -21,5 +21,5 @@
   - Hive v3.1.2
   - Hue v3.12
   - Spark v3.1.2
-  - Presto v
-  - Kudu v
+  - Presto v0.265.1
+  - Kudu v1.10
