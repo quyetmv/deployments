@@ -11,15 +11,15 @@
 - The firewalls are not managed, you'll need to implement your own rules the way you used to. in order to avoid any issue during deployment you should disable your firewall.
 # Supported Components
 - Core
-  - Zookeeper v
-  - Hadoop v
-  - MySQL v
-  - JDK v
+  - Zookeeper v3.5.9
+  - Hadoop v3.3.1
+  - MySQL v5.7
+  - JDK v1.8 (jdk-8u221)
 - Plugin
   - Kafka v
   - Hbase v
-  - Hive v
-  - Hue v
-  - Spark v
+  - Hive v3.1.2
+  - Hue v3.12
+  - Spark v3.1.2
   - Presto v
   - Kudu v
